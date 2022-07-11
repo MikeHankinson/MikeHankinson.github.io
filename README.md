@@ -1,4 +1,3 @@
-# Mike Hankinson 
 **Data Scicence and Data Analysis Projects**
 
 
