@@ -1,5 +1,5 @@
-
-*Data Scicence and Data Analysis Projects**
+# Mike Hankinson 
+**Data Scicence and Data Analysis Projects**
 
 
 ## MIT
