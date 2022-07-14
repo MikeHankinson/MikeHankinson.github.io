@@ -1,1 +1,14 @@
+# Site Settings
+
+title: Mike's Projects
+author:
+  name: Mike Hankinson
+  email: Mike Hankinson@gmail.com
+ description: "Great site containing Mike's data science projects."
+
+
+
+
+# Build settings
+# remote_theme: jekyll/minima
 theme: jekyll-theme-slate
