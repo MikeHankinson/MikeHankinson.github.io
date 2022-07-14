@@ -10,5 +10,5 @@ author:
 
 
 # Build settings
-remote_theme: jekyll/minima
-# jekyll-theme-slate
+theme: jekyll/minima
+#theme: jekyll-theme-slate
