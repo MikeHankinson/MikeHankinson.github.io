@@ -49,3 +49,6 @@ Syntax highlighted code block
 | Model 6 	|      0.94     	|               83               	|               78               	|
 | Model 7 	|      0.90     	|               37               	|               221              	|
 
+
+https://tablesgenerator.com/markdown_tables#
+
